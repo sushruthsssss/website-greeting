@@ -1,2 +1,2 @@
-# website-greeting
+# calculator
 Created with CodeSandbox
